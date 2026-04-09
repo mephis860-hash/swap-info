@@ -1,5 +1,5 @@
 export const tokenAddressSymbolMap = {
-  '0xb6ed7644c69416d67b522e20bc294a9a9b405b31': '0xBTC',
+  '0xb6ed7644c69416d67b522e20bc294a9a9b405b31': '0xBTC',pay lnbc559808880n1p5awxcdpp5kjmxpzrqzs3wu6pcdn8y57evdupll0jnk54lynj4t6ezz8pyly7qdqqcqzzsxqyz5vqsp5hjmjzvvg7fmr3xyt707793aqmt3yezw24dxg4zsugqae72cguqxs9qxpqysgqlu3vmuw5g5dj3j8rzkv7cwv3npvg96my43ldenrvtrggw9y5kyek68484utcw76k3phdw2kx403sker3jxxnyf4rp2haa4nazelg28gqk5tr34
   '0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d': 'aDAI',
   '0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c': 'AMN',
   '0xd46ba6d942050d489dbd938a2c909a5d5039a161': 'AMPL',
