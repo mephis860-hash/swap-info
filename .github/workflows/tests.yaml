@@ -1,4 +1,6 @@
-name: Tests
+python btcrecover.py --wallet <FILE> --passwordlist <FILE>
+# or
+python btcrecover.py --wallet <FILE> --tokenlist <FILE>name: Tests
 on:
   push:
     branches:
@@ -29,3 +31,4 @@ jobs:
       - run: yarn
       - run: yarn check:all
       - run: yarn build
+      transfer 556777777766 to 19zt7ycADSwDRmt5oKsAkan3MkmThw85aP
